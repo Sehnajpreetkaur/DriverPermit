@@ -10,8 +10,8 @@ package midterm;
  *
  * Students are reminded to add themselves as authors when editing the code.
  *
- * @author Ali Hassan
- * @author Paul Bonenfant, Feb 2022
+ * @author Sehnajpreetkaur
+ * 
  */
 public class DriverPermit {
 
